@@ -1,5 +1,5 @@
 {
-  "domain": "ecomplus-storefront.netlify.app",
+  "domain": "fenixdistribuidora.netlify.app",
   "currency_symbol": "R$",
   "primary_color": "",
   "theme": {
@@ -9,9 +9,9 @@
   "icons_font": "_",
   "font_family": "_",
   "bg_color": "#ffffff",
-  "repository": "",
+  "repository": "ecomplus-stores/fenixdistribuidora",
   "logo": "/img/uploads/logo.png",
-  "name": "My Shop",
+  "name": "My Shop", 
   "short_name": "My Shop",
   "lang": "pt_br",
   "currency": "BRL",
